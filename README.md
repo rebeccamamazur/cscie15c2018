@@ -4,6 +4,8 @@
 
 # This comment is currently only in the really cool feature branch
 
+# This is another header that my boss asked me to add
+
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
 
 This project template provides a starter kit for managing your site
