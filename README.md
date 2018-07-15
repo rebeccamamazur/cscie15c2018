@@ -2,6 +2,8 @@
 
 # Here's a comment in the README
 
+# This comment is currently only in the really cool feature branch
+
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
 
 This project template provides a starter kit for managing your site
