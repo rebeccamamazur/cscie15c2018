@@ -1,0 +1,14 @@
+uuid: 289ace7b-b980-458b-9d83-07b36edbcc02
+name: 'CSCI E-25 Drupal Site'
+mail: rebecca.m.a.mazur@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
