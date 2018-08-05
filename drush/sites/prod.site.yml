@@ -1,0 +1,8 @@
+prod:
+  host: 178.128.150.157
+  options: { }
+  paths:
+    drush-script: /var/www/html/cscie15c2018/vendor/drush/drush/drush
+  root: /var/www/html/cscie15c2018/web
+  uri: 'http://178.128.150.157/'
+  user: root
